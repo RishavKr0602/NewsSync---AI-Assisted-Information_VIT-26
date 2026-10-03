@@ -139,4 +139,4 @@ npm run dev
 Open `http://localhost:3000` in your browser.
 
 ---
-**License**: ISC | **Repository**: NewsLens-AI
+**License**: ISC | **Repository**: NewsSync-AI
