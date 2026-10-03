@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# logs
+logs
+*.log
+
+# environment
+.env
+
+# build
+dist/
+build/
+
+# editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+instruct.txt
+
+.env
+venv/
+__pycache__/
