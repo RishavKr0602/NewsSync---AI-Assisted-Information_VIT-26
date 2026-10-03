@@ -1,4 +1,5 @@
 # NewsSync-AI — Real-Time RL Bandit Personalization Engine & Grounded AI Intelligence Dashboard
+## Database Systems - BCSE302L
 
 > **An advanced, production-grade Software Engineering project featuring Contextual Multi-Armed Bandit Reinforcement Learning (RL), Continuous Dwell-Time Telemetry, MongoDB Q-State Persistence, Multi-LLM Resilience (Google Gemini + Local Ollama), and Grounded Explainable AI (XAI).**
 
