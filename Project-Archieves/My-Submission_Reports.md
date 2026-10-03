@@ -1,4 +1,4 @@
-# Academic Project Submission Report: NewsLens-AI
+# Academic Project Submission Report: NewsSync-AI
 ## Real-Time News Recommendation Engine Powered by Contextual Multi-Armed Bandit Reinforcement Learning (RL) & Grounded Explainable AI (XAI)
 
 ---
