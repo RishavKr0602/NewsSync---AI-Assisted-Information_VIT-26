@@ -1,10 +1,10 @@
-# 📘 NewsLens-AI — End-to-End Technical Documentation & Architecture Specification
+# 📘 NewsSync-AI — End-to-End Technical Documentation & Architecture Specification
 
 ---
 
 ## 1. System Overview
 
-**NewsLens-AI** is a real-time personalized news aggregator designed around **Contextual Multi-Armed Bandit Reinforcement Learning (RL)** and **Grounded Explainable AI (XAI)**.
+**NewsSync-AI** is a real-time personalized news aggregator designed around **Contextual Multi-Armed Bandit Reinforcement Learning (RL)** and **Grounded Explainable AI (XAI)**.
 
 Unlike legacy recommendation engines that rely on batch matrix factorization or static offline vector embeddings, NewsLens-AI adapts to user intent on-the-fly directly from live database interactions (`modal_dwell`, `like`, `save`, `dislike`, `read`) and persists category Q-weights ($W_{\text{cat}}$) into MongoDB (`UserQState`).
 
