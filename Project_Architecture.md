@@ -1,4 +1,4 @@
-# Technical Design Specification & Architecture Document: NewsLens-AI
+# Technical Design Specification & Architecture Document: NewsSync-AI
 
 ---
 
