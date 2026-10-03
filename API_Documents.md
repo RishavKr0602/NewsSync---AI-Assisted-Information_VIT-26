@@ -1,4 +1,4 @@
-# REST API Reference Documentation: NewsLens-AI
+# REST API Reference Documentation: NewsSync-AI
 
 Base URL: `http://localhost:5000/api`
 
